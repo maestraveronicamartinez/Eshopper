@@ -5,4 +5,4 @@ Software Punto de Venta de Ropa
 
 Creado por: Verónica Martínez Anaya
 
-Fecha: 27 de octubre de 2024
+Fecha: 28 de octubre de 2024
